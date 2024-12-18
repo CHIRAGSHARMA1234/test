@@ -1,0 +1,157 @@
+body{
+ /* border:2px solid blue; */
+ height:700px;
+ /* margin: 0px ;
+ display: flex; */
+ padding:20px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background-color: rgb(184, 184, 244);
+
+ 
+}
+.main{
+    border:1px solid black;
+    height:500px;
+    width:600px;
+    padding:20px;
+    background-color: antiquewhite;
+    /* display:flex; */
+
+}
+.heading{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.StudentName{
+    border:2px solid rgb(193, 193, 192);
+    height:60px;
+    width:auto;
+    color: rgb(103, 108, 108);
+    border-radius: 11px;
+    background-color: aliceblue;
+  
+    /* margin: */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+
+
+}
+#Name{
+    /* padding-bottom: 30px;
+    /* align-items: center; */
+   /* // justify-content: center;// */
+   margin:15px;
+   padding-bottom:10px ;
+}
+.RollNo{
+    border:2px solid rgb(193, 193, 192);
+    height:50px;
+    width:auto;
+    color: rgb(103, 108, 108);
+    border-radius: 11px;
+    background-color: aliceblue;
+    margin-top: 20px;
+}
+/* % */
+#Roll{
+  /* border:2px solid red; */
+  /* padding-bottom:20px; */
+  margin:15px ;
+  padding-bottom:10px;
+
+}
+.Grade{
+    border:2px solid rgb(193,193,192);
+    height:50px;
+    width:auto;
+    color: rgb(103, 108, 108);
+    margin-top: 20px;
+    border-radius:11px;
+    background-color: aliceblue;
+   
+
+}
+#Grade{
+   margin:15px;  
+   padding-bottom:10px;
+}
+.button{
+    /* height:50px;
+    width:auto; */
+    margin-top:20px;
+    border: 2px solid black;
+    height:60px;
+    width:auto;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    /* br */
+    background-color: green;
+    border-radius: 11px;
+
+}
+/* button:hover{
+    background-color:blue;
+} */
+ .info{
+    /* border:2px solid rgb(235, 166, 166); */
+    width:auto;
+    height:90px;
+    display: flex;
+    border-radius: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    background-color: aqua;
+    /* padding: 20px; */
+ }
+ .name{
+    /* border:2px solid black; */
+    height:70px;
+    width:150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 20px; */
+ }
+ .roll{
+    /* border:2px solid black; */
+    height:70px;
+    width:150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 20px; */
+ }
+ /* .grade{
+    border:2px solid black;
+    height:70px;
+    width:80px
+ } */
+ .grade{
+    /* border:2px solid black; */
+    height:70px;
+    width:180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-top: 20px; */
+    /* padding: 20px; */
+ }
+ .Action{
+    /* border:2px solid black; */
+    height:70px;
+    width:150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 20px; */
+ }
+
+
